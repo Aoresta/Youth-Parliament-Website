@@ -15,8 +15,8 @@ Example:
 public/members/tejas-bansal.jpg
 ```
 
-Then edit `app/data.js` and set that member's image:
+Then edit `app/members-edit-here.js` and set that member's image:
 
 ```js
-image: `${basePath}/members/tejas-bansal.jpg`
+image: "tejas-bansal.jpg"
 ```

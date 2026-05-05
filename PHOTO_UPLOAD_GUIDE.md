@@ -6,7 +6,7 @@ Upload all member photos inside:
 public/members/
 ```
 
-After uploading, open `app/data.js` and change the member's `image` value.
+After uploading, open `app/members-edit-here.js` and change the member's `image` value.
 
 Example:
 
@@ -14,8 +14,7 @@ Example:
 {
   name: "Tejas Bansal",
   role: "Finance Minister",
-  partyKey: "ruling",
-  image: `${basePath}/members/tejas-bansal.jpg`,
+  image: "tejas-bansal.jpg",
   ideology: "Either Go Har(d) or Go Home"
 }
 ```

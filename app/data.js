@@ -1,10 +1,12 @@
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-const portrait = `${basePath}/member-placeholder.svg`;
+import {
+  mediaMembersEditable,
+  oppositionMembersEditable,
+  rulingMembersEditable,
+  tableOfficerMembersEditable
+} from "./members-edit-here";
 
-// To use real photos:
-// 1. Put images in public/members/
-// 2. Change any member's image field to `${basePath}/members/file-name.jpg`
-// 3. Keep file names lowercase and avoid spaces for easiest deployment.
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+const placeholderImage = `${basePath}/member-placeholder.svg`;
 
 export const parties = {
   ruling: {
@@ -49,82 +51,10 @@ export const parties = {
   }
 };
 
-const ideologies = [
-  "Either Go Har(d) or Go Home",
-  "Lead with service, not noise",
-  "Policy first, popularity second",
-  "Discipline turns debate into action",
-  "Speak with facts and listen with respect"
-];
-
-export const rulingMembers = [
-  "Prime Minister",
-  "Finance Minister",
-  "Home Minister",
-  "Education Minister",
-  "Health Minister",
-  "Environment Minister",
-  "Law Minister",
-  "Transport Minister",
-  "Agriculture Minister",
-  "Digital Affairs Minister",
-  "Youth Affairs Minister",
-  "Women and Child Development Minister",
-  "Sports Minister",
-  "Culture Minister",
-  "Rural Development Minister",
-  "Urban Development Minister",
-  "Science and Technology Minister",
-  "Labour Minister",
-  "Food Minister",
-  "Parliamentary Affairs Minister"
-].map((role, index) => member(`Minister ${index + 1}`, role, "ruling", index));
-
-export const oppositionMembers = [
-  "Leader of Opposition",
-  "Deputy Leader of Opposition",
-  "Shadow Finance Minister",
-  "Shadow Home Minister",
-  "Shadow Education Minister",
-  "Shadow Health Minister",
-  "Shadow Environment Minister",
-  "Shadow Law Minister",
-  "Shadow Transport Minister",
-  "Shadow Agriculture Minister",
-  "Shadow Digital Affairs Minister",
-  "Shadow Youth Affairs Minister",
-  "Shadow Sports Minister",
-  "Shadow Culture Minister",
-  "Shadow Rural Development Minister",
-  "Shadow Urban Development Minister",
-  "Shadow Science Minister",
-  "Shadow Labour Minister",
-  "Opposition Whip",
-  "Policy Research Lead"
-].map((role, index) => member(`Opposition Member ${index + 1}`, role, "opposition", index));
-
-export const mediaMembers = [
-  "Media Convenor",
-  "Press Briefing Lead",
-  "Photography Lead",
-  "Video Coverage Lead",
-  "Social Media Editor",
-  "Interview Desk",
-  "Event Report Writer"
-].map((role, index) => member(`Media Member ${index + 1}`, role, "media", index));
-
-export const tableOfficerMembers = [
-  member("Hon. Speaker", "Speaker of the House", "table", 0),
-  ...[
-    "Chief Table Officer",
-    "Roll Call Officer",
-    "Question Hour Officer",
-    "Motion Register Officer",
-    "Voting Count Officer",
-    "Timekeeping Officer",
-    "Order Paper Officer"
-  ].map((role, index) => member(`Table Officer ${index + 1}`, role, "table", index + 1))
-];
+export const rulingMembers = prepareMembers(rulingMembersEditable, "ruling");
+export const oppositionMembers = prepareMembers(oppositionMembersEditable, "opposition");
+export const mediaMembers = prepareMembers(mediaMembersEditable, "media");
+export const tableOfficerMembers = prepareMembers(tableOfficerMembersEditable, "table");
 
 export const gallery = [
   ["Opening Session", "Oath, welcome address, and the first sitting of the House."],
@@ -143,12 +73,22 @@ export const counts = [
   ["Media", "6-7"]
 ];
 
-function member(name, role, partyKey, index) {
-  return {
-    name,
-    role,
+function prepareMembers(members, partyKey) {
+  return members.map((member) => ({
+    ...member,
     partyKey,
-    image: portrait,
-    ideology: ideologies[index % ideologies.length]
-  };
+    image: photoPath(member.image)
+  }));
+}
+
+function photoPath(fileName) {
+  if (!fileName) {
+    return placeholderImage;
+  }
+
+  if (fileName.startsWith("http") || fileName.startsWith("/")) {
+    return `${basePath}${fileName}`;
+  }
+
+  return `${basePath}/members/${fileName}`;
 }

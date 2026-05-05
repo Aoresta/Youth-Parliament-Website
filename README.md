@@ -21,22 +21,30 @@ Open `http://localhost:3000`.
 
 ## Edit Members
 
-Change names, roles, ideology lines, party colors, and photo paths in:
+Change minister/member names, roles, ideology lines, and photo file names in:
 
 ```txt
-app/data.js
+app/members-edit-here.js
 ```
 
 Put real member photos in:
 
 ```txt
-public/
+public/members/
 ```
 
-Then set a member's `image` value to something like:
+Then set that member's `image` value to just the file name:
 
 ```js
-image: "/tejas-bansal.jpg"
+image: "tejas-bansal.jpg"
+```
+
+If `image` is empty, the website will show the default placeholder.
+
+Party colors and page text are still in:
+
+```txt
+app/data.js
 ```
 
 ## Deploy
