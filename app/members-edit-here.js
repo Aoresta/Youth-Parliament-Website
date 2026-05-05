@@ -9,7 +9,7 @@
 
 export const rulingMembersEditable = [
   { name: "Minister 1", role: "Prime Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
-  { name: "Minister 2", role: "Finance Minister", image: "", ideology: "Policy first, popularity second" },
+  { name: "Tejas Bansal", role: "Finance Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
   { name: "Minister 3", role: "Home Minister", image: "", ideology: "Lead with service, not noise" },
   { name: "Minister 4", role: "Education Minister", image: "", ideology: "Discipline turns debate into action" },
   { name: "Minister 5", role: "Health Minister", image: "", ideology: "Speak with facts and listen with respect" },
