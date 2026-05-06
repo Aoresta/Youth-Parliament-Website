@@ -33,8 +33,10 @@ export function Shell({ children }) {
       <main>{children}</main>
       <footer className="site-footer">
         <div>
-          <strong>School Youth Parliament</strong>
-          <p>Debate with discipline. Lead with responsibility. Serve with integrity.</p>
+          <strong>Designed by
+                  Tejas Bansal, XII D
+          </strong>
+          <p>Aka Aoresta. © 2026 Credit. All rights reserved</p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
