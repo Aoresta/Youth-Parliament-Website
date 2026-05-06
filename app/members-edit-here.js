@@ -17,7 +17,7 @@ export const rulingMembersEditable = [
   { name: "Naitik Rai", role: "Commerce Minister", image: "/ministers/naitik.jpeg", ideology: "Policy first, popularity second" },
   { name: "Mannat Chauhan", role: "Environment Minister", image: "/ministers/mannat.jpeg", ideology: "A nation progresses when its women are healthy, informed, and respected" },
   { name: "Aarush ", role: "Agriculture Minister", image: "/ministers/aarush.jpeg", ideology: "Discipline turns debate into action" },
-  { name: "Naisha Kaushal", role: "Minister of Parliamentary Affairs", image: "/ministers/naisha.jpeg", ideology: "Speak with facts and listen with respect" },
+  { name: "Naisha Kaushal", role: "Minister of Parliamentary Affairs", image: "/ministers/naisha.jpeg", ideology: "Too glam to give a damn" },
   { name: "Akshita Yadav", role: "Minister of Parliamentary Affairs", image: "/ministers/akshita.jpeg", ideology: "I question everything until the truth speaks itself" },
   { name: "Aarna Goyal", role: "Minister of Parliamentary Affairs", image: "/ministers/aarna.jpeg", ideology: "Justice guides my vision beyond every border" },
   { name: "Aanya", role: "Health Minister", image: "/ministers/aanya.jpeg", ideology: "Leading to protect lives, not just policies" },
