@@ -36,7 +36,7 @@ export function Shell({ children }) {
           <strong>Designed by
                   Tejas Bansal, XII D
           </strong>
-          <p>Aka Aoresta. © 2026 Credit. All rights reserved</p>
+          <p>aka Aoresta. © 2026 Credit. All rights reserved</p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
