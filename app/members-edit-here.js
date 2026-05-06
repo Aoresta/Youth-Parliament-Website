@@ -8,19 +8,19 @@
 // Keep the quotes and commas. Change only the text inside the quotes.
 
 export const rulingMembersEditable = [
-  { name: "Minister 1", role: "Prime Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
+  { name: "Aakarsh Gupta", role: "Prime Minister", image: "", ideology: "I don't play the odds, play the man" },
   { name: "Tejas Bansal", role: "Finance Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
-  { name: "Minister 3", role: "Home Minister", image: "", ideology: "Lead with service, not noise" },
-  { name: "Minister 4", role: "Education Minister", image: "", ideology: "Discipline turns debate into action" },
-  { name: "Minister 5", role: "Health Minister", image: "", ideology: "Speak with facts and listen with respect" },
-  { name: "Minister 6", role: "Environment Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
-  { name: "Minister 7", role: "Law Minister", image: "", ideology: "Policy first, popularity second" },
-  { name: "Minister 8", role: "Transport Minister", image: "", ideology: "Lead with service, not noise" },
-  { name: "Minister 9", role: "Agriculture Minister", image: "", ideology: "Discipline turns debate into action" },
-  { name: "Minister 10", role: "Digital Affairs Minister", image: "", ideology: "Speak with facts and listen with respect" },
-  { name: "Minister 11", role: "Youth Affairs Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
-  { name: "Minister 12", role: "Women and Child Development Minister", image: "", ideology: "Policy first, popularity second" },
-  { name: "Minister 13", role: "Sports Minister", image: "", ideology: "Lead with service, not noise" },
+  { name: "Ridhima Dhyani", role: "Home Minister", image: "", ideology: "Lead with service, not noise" },
+  { name: "Khyati Gupta", role: "Cultural Minister", image: "", ideology: "Discipline turns debate into action" },
+  { name: "Anchal Jain", role: "Women and Child Development Minister", image: "", ideology: "Speak with facts and listen with respect" },
+  { name: "Yashika Rawat", role: "Minister of Parliamentary Affairs", image: "", ideology: "Either Go Har(d) or Go Home" },
+  { name: "Naitik Rai", role: "Commerce Minister", image: "", ideology: "Policy first, popularity second" },
+  { name: "Mannat Chauhan", role: "Environment Minister", image: "", ideology: "Lead with service, not noise" },
+  { name: "Aarush ", role: "Agriculture Minister", image: "", ideology: "Discipline turns debate into action" },
+  { name: "Naisha Kaushal", role: "Minister of Parliamentary Affairs", image: "", ideology: "Speak with facts and listen with respect" },
+  { name: "Akshita Yadav", role: "Minister of Parliamentary Affairs", image: "", ideology: "Either Go Har(d) or Go Home" },
+  { name: "Aarna Goyal", role: "Minister of Parliamentary Affairs", image: "", ideology: "Policy first, popularity second" },
+  { name: "Aanya", role: "Health Minister", image: "", ideology: "Lead with service, not noise" },
   { name: "Minister 14", role: "Culture Minister", image: "", ideology: "Discipline turns debate into action" },
   { name: "Minister 15", role: "Rural Development Minister", image: "", ideology: "Speak with facts and listen with respect" },
   { name: "Minister 16", role: "Urban Development Minister", image: "", ideology: "Either Go Har(d) or Go Home" },
@@ -31,8 +31,8 @@ export const rulingMembersEditable = [
 ];
 
 export const oppositionMembersEditable = [
-  { name: "Opposition Member 1", role: "Leader of Opposition", image: "", ideology: "Question with courage, debate with dignity" },
-  { name: "Opposition Member 2", role: "Deputy Leader of Opposition", image: "", ideology: "Hold power accountable" },
+  { name: "Veer Verma", role: "Leader of Opposition", image: "", ideology: "Question with courage, debate with dignity" },
+  { name: "Himani Joshi", role: "Deputy Leader of Opposition", image: "", ideology: "Hold power accountable" },
   { name: "Opposition Member 3", role: "Shadow Finance Minister", image: "", ideology: "Facts make strong questions" },
   { name: "Opposition Member 4", role: "Shadow Home Minister", image: "", ideology: "Respectful opposition strengthens democracy" },
   { name: "Opposition Member 5", role: "Shadow Education Minister", image: "", ideology: "Listen first, challenge better" },
@@ -54,7 +54,7 @@ export const oppositionMembersEditable = [
 ];
 
 export const mediaMembersEditable = [
-  { name: "Media Member 1", role: "Media Convenor", image: "", ideology: "Record truthfully, report responsibly" },
+  { name: "Akshara Sharma", role: "Media Convenor", image: "", ideology: "Record truthfully, report responsibly" },
   { name: "Media Member 2", role: "Press Briefing Lead", image: "", ideology: "Clear words build public trust" },
   { name: "Media Member 3", role: "Photography Lead", image: "", ideology: "Capture the moment, preserve the record" },
   { name: "Media Member 4", role: "Video Coverage Lead", image: "", ideology: "Every session deserves a record" },
@@ -64,10 +64,10 @@ export const mediaMembersEditable = [
 ];
 
 export const tableOfficerMembersEditable = [
-  { name: "Hon. Speaker", role: "Speaker of the House", image: "", ideology: "Order gives debate its power" },
-  { name: "Table Officer 1", role: "Chief Table Officer", image: "", ideology: "Procedure before pressure" },
-  { name: "Table Officer 2", role: "Roll Call Officer", image: "", ideology: "Accuracy is service" },
-  { name: "Table Officer 3", role: "Question Hour Officer", image: "", ideology: "Every question deserves order" },
+  { name: "Mansi Joshi", role: "Speaker of the House", image: "", ideology: "Order gives debate its power" },
+  { name: "Kritika", role: "Chief Table Officer", image: "", ideology: "Procedure before pressure" },
+  { name: "Hryan Gola", role: "Roll Call Officer", image: "", ideology: "Accuracy is service" },
+  { name: "Ali Abbas Rizvi", role: "Oath Announcer", image: "", ideology: "Every question deserves order" },
   { name: "Table Officer 4", role: "Motion Register Officer", image: "", ideology: "Records protect the House" },
   { name: "Table Officer 5", role: "Voting Count Officer", image: "", ideology: "Count fairly, declare clearly" },
   { name: "Table Officer 6", role: "Timekeeping Officer", image: "", ideology: "Time discipline is debate discipline" },
