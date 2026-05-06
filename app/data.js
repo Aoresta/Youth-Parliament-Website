@@ -67,10 +67,10 @@ export const gallery = [
 
 export const counts = [
   ["Speaker", "1"],
-  ["Table Officers", "6-7"],
-  ["Ruling Party", "20"],
-  ["Opposition", "20"],
-  ["Media", "6-7"]
+  ["Table Officers", "7"],
+  ["Ruling Party", "18"],
+  ["Opposition", "17"],
+  ["Media", "5"]
 ];
 
 function prepareMembers(members, partyKey) {
