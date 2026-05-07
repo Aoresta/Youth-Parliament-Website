@@ -31,7 +31,7 @@ export const rulingMembersEditable = [
 ];
 
 export const oppositionMembersEditable = [
-  { name: "Veer Verma", role: "Leader of Opposition", image: "/ministers/veer.jpeg", ideology: "Late for quote" },
+  { name: "Veer Verma", role: "Leader of Opposition", image: "/ministers/veer.jpeg", ideology: "We learn from experiences, but our life is too short to experience everything.. Hence, we must learn by observing others experiencing" },
   { name: "Himani Joshi", role: "Deputy Leader of Opposition", image: "/ministers/himani.jpeg", ideology: "Art is long, life is short" },
   { name: "Arshita Gupta", role: "Deputy Leader of Opposition", image: "/ministers/opposition-3.jpeg", ideology: "Facts make strong questions" },
   { name: "Arahant Nijhara", role: "Member of Opposition", image: "/ministers/opposition-4.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
@@ -50,7 +50,7 @@ export const oppositionMembersEditable = [
   { name: "Opposition Member 17", role: "Member of Opposition", image: "/ministers/opposition-17.jpeg", ideology: "Hold power accountable" },
   { name: "Opposition Member 18", role: "Member of Opposition", image: "/ministers/opposition-18.jpeg", ideology: "Facts make strong questions" },
   { name: "Opposition Member 19", role: "Member of Opposition", image: "/ministers/opposition-19.jpeg", ideology: "Respectful opposition strengthens democracy" },
-  { name: "Opposition Member 20", role: "Member of Oppositionx`", image: "/ministers/opposition-20.jpeg", ideology: "Listen first, challenge better" }
+  { name: "Opposition Member 20", role: "Member of Opposition`", image: "/ministers/opposition-20.jpeg", ideology: "Listen first, challenge better" }
 ];
 
 export const mediaMembersEditable = [
