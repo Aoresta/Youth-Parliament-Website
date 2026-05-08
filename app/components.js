@@ -7,6 +7,7 @@ export function Shell({ children }) {
     ["Ruling Party", "/ruling-party"],
     ["Opposition", "/opposition"],
     ["Media", "/media"],
+    ["Speaker", "/speaker"],
     ["Table Officer", "/table-officer"],
     ["Gallery", "/gallery"],
     ["About Us", "/about-us"]
@@ -34,11 +35,11 @@ export function Shell({ children }) {
       <footer className="site-footer">
         <div>
           <strong>Designed by,
-                  Tejas Bansal
+                   Tejas Bansal
                   Managed by,
-                  Veer Verma
-                  Mansi Joshi
-                  Aakarsh Gupta
+                  •Veer Verma
+                  •Mansi Joshi
+                  •Aakarsh Gupta
           </strong>
           <p>aka Aoresta. © 2026 Credit. All rights reserved</p>
         </div>

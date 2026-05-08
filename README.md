@@ -15,6 +15,7 @@ Open `http://localhost:3000`.
 - `/ruling-party`
 - `/opposition`
 - `/media`
+- `/speaker`
 - `/table-officer`
 - `/gallery`
 - `/about-us`

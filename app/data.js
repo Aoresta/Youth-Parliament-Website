@@ -39,14 +39,24 @@ export const parties = {
       "The media desk documents the event, prepares briefings, interviews members, and presents the public record of the session.",
     quote: "Record truthfully, report responsibly."
   },
+  speaker: {
+    name: "Speaker",
+    shortName: "Presiding Chair",
+    href: "/speaker",
+    color: "#6d3fb2",
+    dark: "#2f1b58",
+    intro:
+      "The Speaker presides over the House, maintains discipline, recognizes members, and protects the dignity of debate.",
+    quote: "Order gives debate its power."
+  },
   table: {
-    name: "Table Officer & Speaker",
+    name: "Table Officers",
     shortName: "Secretariat",
     href: "/table-officer",
     color: "#315b96",
     dark: "#172c52",
     intro:
-      "The Speaker and table officers keep procedure fair, maintain order, record decisions, and support the working of the House.",
+      "The table officers keep procedure fair, record decisions, track time, manage motions, and support the working of the House.",
     quote: "Procedure gives debate its power."
   }
 };
@@ -54,7 +64,8 @@ export const parties = {
 export const rulingMembers = prepareMembers(rulingMembersEditable, "ruling");
 export const oppositionMembers = prepareMembers(oppositionMembersEditable, "opposition");
 export const mediaMembers = prepareMembers(mediaMembersEditable, "media");
-export const tableOfficerMembers = prepareMembers(tableOfficerMembersEditable, "table");
+export const speakerMembers = prepareMembers(tableOfficerMembersEditable.slice(0, 1), "speaker");
+export const tableOfficerMembers = prepareMembers(tableOfficerMembersEditable.slice(1), "table");
 
 export const gallery = [
   ["Opening Session", "Oath, welcome address, and the first sitting of the House."],
