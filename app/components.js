@@ -35,6 +35,7 @@ export function Shell({ children }) {
       <footer className="site-footer">
         <div>
           <strong>Designed by: Mr. Tejas Bansal <br />
+          
            <br />
                    Managed by; <br />
                   • Mr. Veer Verma  <br />

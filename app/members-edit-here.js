@@ -65,7 +65,7 @@ export const mediaMembersEditable = [
 ];
 
 export const tableOfficerMembersEditable = [
-  { name: "Mansi Joshi", role: "Speaker of the House", image: "/ministers/vani.jpeg", ideology: "Curious mind, grounded heart, always evolving" },
+  { name: "Mansi Joshi", role: "Speaker of the House", image: "/ministers/mansi.jpeg", ideology: "Curious mind, grounded heart, always evolving" },
   { name: "Vani Arora", role: "Chief Table Officer", image: "/ministers/vani.jpeg", ideology: "Write what happened with honesty" },
   { name: "Kritika", role: "Chief Table Officer", image: "/ministers/kritika.jpeg", ideology: "Think critically, act responsibly, serve selflessly" },
   { name: "Anshika Yadav", role: "Chief Table Officer", image: "/ministers/anshika.jpeg", ideology: "Accuracy is service" },
