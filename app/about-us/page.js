@@ -36,7 +36,7 @@ export default function AboutUsPage() {
             Mrs. Neetu Verma <br />
             Mrs. Sakshi Arora <br />
             Mrs. Sudipta Mohanty <br />
-            Mrs. Sanchita Banarjee Bagchi <br />
+            Mrs. Sanchita Banerjee Bagchi <br />
             Ms. Swati Singh <br />
             Mr. Ankit Suri <br />
             Mr. Gaurav Goyal <br />
