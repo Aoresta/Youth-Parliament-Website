@@ -32,11 +32,12 @@ export default function AboutUsPage() {
             Male Student Cordinator - Mr. Veer Verma - +91 9873770007 <br />
             Guided By: <br />
             Vice Pincipal Ma'am - Mrs. Deeksha Singh Rana <br />
-            Mrs. Neetu Verma Ma'am <br />
-            Mrs. Sakshi Arora Ma'am <br />
-            Mrs. Sudipta Mohanty Ma'am <br />
-            Mrs. Sanchita Banarjee Bagchi Ma'am <br />
-            Mr. Ankit Suri Sir <br />
+            Mrs. Neetu Verma <br />
+            Mrs. Sakshi Arora <br />
+            Mrs. Sudipta Mohanty <br />
+            Mrs. Sanchita Banarjee Bagchi <br />
+            Ms. Swati Singh <br />
+            Mr. Ankit Suri <br />
             Mr. Gaurav Goyal <br />
             Mr. Brijesh Sharma <br />
             Dr. Rajshree <br />
