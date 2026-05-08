@@ -35,14 +35,14 @@ export function Shell({ children }) {
       <footer className="site-footer">
         <div>
           <strong>Designed by: Mr. Tejas Bansal <br />
-          
+
            <br />
                    Managed by; <br />
                   • Mr. Veer Verma  <br />
                   • Ms. Mansi Joshi <br />
                   • Mr. Aakarsh Gupta <br />
           </strong>
-          <p>. © 2026 Credit. All rights reserved</p>
+          <p> © 2026 Credit. All rights reserved</p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
