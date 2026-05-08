@@ -485,7 +485,7 @@ h1 {
   margin: -10px auto 0;
   font-family: var(--serif);
   font-size: clamp(1.55rem, 3.4vw, 2rem);
-  font-weight: 900;
+  font-weight: 0;
   line-height: 1.16;
 }
 
