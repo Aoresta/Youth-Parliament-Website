@@ -38,7 +38,7 @@ export function Shell({ children }) {
                     Mr. Tejas Bansal <br />
            <br />
            <br />
-                   Assisted by; <br />
+                   Directed by; <br />
                   • Mr. Veer Verma  <br />
                   • Ms. Mansi Joshi <br />
                   • Mr. Aakarsh Gupta <br />
