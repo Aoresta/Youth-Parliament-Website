@@ -8,8 +8,8 @@
 // Keep the quotes and commas. Change only the text inside the quotes.
 
 export const rulingMembersEditable = [
-  { name: "Shri Aakarsh Gupta", role: "Prime Minister", image: "/ministers/aakarsh.jpeg", ideology: "I don't play the odds, play the man" },
-  { name: "Tejas Bansal", role: "Finance Minister", image: "/ministers/tejas.jpeg", ideology: "Either Go Har(d) or Go Home" },
+  { name: "Mr. Aakarsh Gupta", role: "Prime Minister", image: "/ministers/aakarsh.jpeg", ideology: "I don't play the odds, play the man" },
+  { name: "Mr. Tejas Bansal", role: "Finance Minister", image: "/ministers/tejas.jpeg", ideology: "Either Go Har(d) or Go Home" },
   { name: "Anchal Jain", role: "Women and Child Development Minister", image: "/ministers/anchal.jpeg", ideology: "Sleep is just a free trial of death" },
   { name: "Khyati", role: "Home Minister", image: "/ministers/khyati.jpeg", ideology: "Social Justice Today, Viksit Bharat Tomorrow" },
   { name: "Ridhima Dhyani", role: "Cultural Minister", image: "/ministers/ridhima.jpeg", ideology: "I may be calm by nature, but when it comes to protecting people, I stand firm and fearless" },
