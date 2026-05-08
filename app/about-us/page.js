@@ -3,7 +3,7 @@ import { PageHero, Shell } from "../components";
 export default function AboutUsPage() {
   return (
     <Shell>
-      <PageHero
+      <PageHer
         partyKey="table"
         eyebrow="About Us"
         title="Built for disciplined democratic learning."
@@ -15,7 +15,7 @@ export default function AboutUsPage() {
           <p>
             To help students become informed, confident, and responsible citizens through
             research, debate, and parliamentary simulation.
-          </p>
+          </p> 
         </article>
         <article>
           <h2>Values</h2>
@@ -27,9 +27,23 @@ export default function AboutUsPage() {
         <article>
           <h2>Contact Desk</h2>
           <p>
-            Add your teacher coordinator, student secretariat, media convenor, and table
-            office contact details here before deployment.
-          </p>
+            Website Managers: Tejas Bansal - +91 9205503994
+            Student Representatives:
+            Male Student Cordinator - Veer Verma - +91 9873770007
+            Female Student Cordinator - Mansi Joshi - +91 9871595102
+            Guided By:
+             Vice Pincipal Ma'am - Ms. Diksha Rana
+            Teacher Coordinators:
+             Neetu Verma Ma'am -
+             Sakshi Arora Ma'am -
+             Sudipta Mohanty Ma'am -
+             Sanchita Banarjee Bagchi Ma'am -
+             Ankit Suri Sir - 
+             Gaurav Goel -
+             Brijesh Sharma -
+             Rajshree
+             
+
         </article>
       </section>
     </Shell>

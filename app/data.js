@@ -61,10 +61,10 @@ export const parties = {
   }
 };
 
+export const speakerMembers = prepareMembers(tableOfficerMembersEditable.slice(0, 1), "speaker");
 export const rulingMembers = prepareMembers(rulingMembersEditable, "ruling");
 export const oppositionMembers = prepareMembers(oppositionMembersEditable, "opposition");
 export const mediaMembers = prepareMembers(mediaMembersEditable, "media");
-export const speakerMembers = prepareMembers(tableOfficerMembersEditable.slice(0, 1), "speaker");
 export const tableOfficerMembers = prepareMembers(tableOfficerMembersEditable.slice(1), "table");
 
 export const gallery = [
