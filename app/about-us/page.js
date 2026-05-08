@@ -3,7 +3,7 @@ import { PageHero, Shell } from "../components";
 export default function AboutUsPage() {
   return (
     <Shell>
-      <PageHer
+      <PageHero
         partyKey="table"
         eyebrow="About Us"
         title="Built for disciplined democratic learning."
@@ -42,8 +42,7 @@ export default function AboutUsPage() {
              Gaurav Goel -
              Brijesh Sharma -
              Rajshree
-             
-
+          </p>
         </article>
       </section>
     </Shell>

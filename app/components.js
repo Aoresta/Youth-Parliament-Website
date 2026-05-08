@@ -35,13 +35,13 @@ export function Shell({ children }) {
       <footer className="site-footer">
         <div>
           <strong>Designed by,
-                   Tejas Bansal
+                   Mr. Tejas Bansal
                   Managed by,
-                  •Veer Verma
-                  •Mansi Joshi
-                  •Aakarsh Gupta
+                  •Mr. Veer Verma
+                  •Ms. Mansi Joshi
+                  •Mr. Aakarsh Gupta
           </strong>
-          <p>aka Aoresta. © 2026 Credit. All rights reserved</p>
+          <p>. © 2026 Credit. All rights reserved</p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
