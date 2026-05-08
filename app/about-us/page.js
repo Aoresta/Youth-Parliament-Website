@@ -34,7 +34,7 @@ export default function AboutUsPage() {
             Teacher Coordinators: <br />
             Mrs. Deeksha Singh Rana <br />
             Mrs. Neetu Verma <br />
-            Mrs. Sakshi Arora <br />
+            Ms. Sakshi Arora <br />
             Mrs. Sudipta Mohanty <br />
             Mrs. Sanchita Banerjee Bagchi <br />
             Ms. Swati Singh <br />
