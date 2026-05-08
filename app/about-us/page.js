@@ -15,7 +15,7 @@ export default function AboutUsPage() {
           <p>
             To help students become informed, confident, and responsible citizens through
             research, debate, and parliamentary simulation.
-          </p> 
+          </p>
         </article>
         <article>
           <h2>Values</h2>
@@ -27,21 +27,19 @@ export default function AboutUsPage() {
         <article>
           <h2>Contact Desk</h2>
           <p>
-            Website Managers: Tejas Bansal - +91 9205503994
-            Student Representatives:
-            Male Student Cordinator - Veer Verma - +91 9873770007
-            Female Student Cordinator - Mansi Joshi - +91 9871595102
-            Guided By:
-             Vice Pincipal Ma'am - Ms. Diksha Rana
-            Teacher Coordinators:
-             Neetu Verma Ma'am -
-             Sakshi Arora Ma'am -
-             Sudipta Mohanty Ma'am -
-             Sanchita Banarjee Bagchi Ma'am -
-             Ankit Suri Sir - 
-             Gaurav Goel -
-             Brijesh Sharma -
-             Rajshree
+            Website Managers: Mr. Tejas Bansal - +91 9205503994 <br />
+            Student Representatives: <br />
+            Male Student Cordinator - Mr. Veer Verma - +91 9873770007 <br />
+            Guided By: <br />
+            Vice Pincipal Ma'am - Mrs. Deeksha Singh Rana <br />
+            Mrs. Neetu Verma Ma'am <br />
+            Mrs. Sakshi Arora Ma'am <br />
+            Mrs. Sudipta Mohanty Ma'am <br />
+            Mrs. Sanchita Banarjee Bagchi Ma'am <br />
+            Mr. Ankit Suri Sir <br />
+            Mr. Gaurav Goyal <br />
+            Mr. Brijesh Sharma <br />
+            Dr. Rajshree <br />
           </p>
         </article>
       </section>
