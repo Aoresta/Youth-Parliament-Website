@@ -27,11 +27,12 @@ export default function AboutUsPage() {
         <article>
           <h2>Contact Desk</h2>
           <p>
-            Website Managers: Mr. Tejas Bansal - +91 9205503994 <br />
-            Student Representatives: <br />
-            Male Student Cordinator - Mr. Veer Verma - +91 9873770007 <br />
-            Guided By: <br />
-            Vice Pincipal Ma'am - Mrs. Deeksha Singh Rana <br />
+            Website Manager:  <br />
+            Mr. Tejas Bansal - +91 9205503994 <br />
+            Student Coordinator: <br />
+            Mr. Veer Verma - +91 9873770007 <br />
+            Teacher Coordinators: <br />
+            Mrs. Deeksha Singh Rana <br />
             Mrs. Neetu Verma <br />
             Mrs. Sakshi Arora <br />
             Mrs. Sudipta Mohanty <br />
