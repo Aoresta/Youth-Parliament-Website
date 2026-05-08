@@ -36,7 +36,9 @@ export function Shell({ children }) {
         <div>
           <strong>Designed by,
                    Mr. Tejas Bansal
+
                   Managed by,
+                  
                   •Mr. Veer Verma
                   •Ms. Mansi Joshi
                   •Mr. Aakarsh Gupta
