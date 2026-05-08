@@ -61,7 +61,7 @@ After pushing to `main`, open the GitHub repository, go to `Settings > Pages`, a
 Expected GitHub Pages URL for the current remote:
 
 ```txt
-https://aoresta.github.io/Youth-Parliament-Website/
+https://aoresta.github.io/Youth-Parliament/
 ```
 
 Build check:

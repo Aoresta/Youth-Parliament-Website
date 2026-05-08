@@ -4,11 +4,11 @@ import { counts, parties } from "./data";
 export function Shell({ children }) {
   const links = [
     ["Home", "/"],
-    ["Ruling Party", "/ruling-party"],
-    ["Opposition", "/opposition"],
-    ["Media", "/media"],
     ["Speaker", "/speaker"],
-    ["Table Officer", "/table-officer"],
+    ["Ruling Party", "/ruling-party"],
+    ["Opposition Party", "/opposition"],
+    ["Table Officers", "/table-officer"],
+    ["Media", "/media"],
     ["Gallery", "/gallery"],
     ["About Us", "/about-us"]
   ];

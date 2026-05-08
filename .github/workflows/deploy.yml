@@ -32,7 +32,7 @@ jobs:
 
       - name: Build static site
         env:
-          NEXT_PUBLIC_BASE_PATH: /Youth-Parliament-Website
+          NEXT_PUBLIC_BASE_PATH: /Youth-Parliament
         run: npm run build
 
       - name: Setup Pages

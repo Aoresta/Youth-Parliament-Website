@@ -1,7 +1,7 @@
 const path = require("path");
 
 const isGithubPages = process.env.GITHUB_ACTIONS === "true";
-const githubPagesPath = "/Youth-Parliament-Website";
+const githubPagesPath = "/Youth-Parliament";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
