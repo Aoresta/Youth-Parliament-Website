@@ -39,7 +39,7 @@ export const oppositionMembersEditable = [
   { name: "Aditya Bakshi", role: "Member of Opposition", image: "/ministers/aditya.jpeg", ideology: "Knowledge lights the mind, and in that light, power finds its path" },
   { name: "Paridhi Hotwani", role: "Member of Opposition", image: "/ministers/paridhi.jpeg", ideology: "Exceeding every bar; never learning to quit" },
   { name: "Devanshi Bisht", role: "Member of Opposition", image: "/ministers/devanshi.jpeg", ideology: "Carpe diem. Gotta do more, gotta be more" },
-  { name: "Anushka Sharma", role: "Member of Opposition", image: "/ministers/anushka.jpeg", ideology: "Respectful opposition strengthens democracy" },
+  { name: "Anushka Sharma", role: "Member of Opposition", image: "/ministers/anushka.jpeg", ideology: "Live and let live" },
   { name: "Aaradhya Gupta", role: "Member of Opposition", image: "/ministers/aaradhya.jpeg", ideology: "Exceeding every bar; never learning to quit" },
   { name: "Aryan Jain", role: "Member of Opposition", image: "/ministers/aryan.jpeg", ideology: "Professional military strength with transparent accountable governance" },
   { name: "Rishikesh Kargeti", role: "Member of Opposition", image: "/ministers/rishikesh.jpeg", ideology: "Professional military strength with transparent accountable governance" },
