@@ -37,10 +37,9 @@ export default function AboutUsPage() {
             Ms. Sakshi Arora <br />
             Mrs. Sudipta Mohanty <br />
             Mrs. Sanchita Banerjee Bagchi <br />
-            Ms. Swati Singh <br />
-            Mr. Ankit Suri <br />
             Mr. Gaurav Goyal <br />
             Mr. Brijesh Sharma <br />
+            Mr. Ankit Suri <br />
             Dr. Rajshree <br />
           </p>
         </article>
