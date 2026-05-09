@@ -38,8 +38,8 @@ export default function AboutUsPage() {
             Mrs. Sudipta Mohanty <br />
             Mrs. Sanchita Banerjee Bagchi <br />
             Mr. Gaurav Goyal <br />
-            Mr. Brijesh Sharma <br />
             Mr. Ankit Suri <br />
+            Mr. Brijesh Sharma <br />
             Dr. Rajshree <br />
           </p>
         </article>
