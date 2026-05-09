@@ -68,7 +68,7 @@ export const tableOfficerMembersEditable = [
   { name: "Vani Arora", role: "Chief Table Officer", image: "/ministers/vani.jpeg", ideology: "Write what happened with honesty" },
   { name: "Kritika", role: "Chief Table Officer", image: "/ministers/kritika.jpeg", ideology: "Think critically, act responsibly, serve selflessly" },
   { name: "Anshika Yadav", role: "Chief Table Officer", image: "/ministers/anshika.jpeg", ideology: "Accuracy is service" },
-  { name: "Hyran Gola", role: "Chief Table Officer", image: "/ministers/hyran.jpeg", ideology: "Every question deserves order" },
+  { name: "Hryan Gola", role: "Chief Table Officer", image: "/ministers/hyran.jpeg", ideology: "Every question deserves order" },
   { name: "Mayank Shekhar", role: "Helping Hand", image: "/ministers/mayank.jpeg", ideology: "Records protect the House" },
   { name: "Vihaan Mittal", role: "", image: "/ministers/vihaan.jpeg", ideology: "Count fairly, declare clearly" },
   { name: "Divyansh Chaudhary", role: "", image: "/ministers/divyansh.jpeg", ideology: "Time discipline is debate discipline" },
