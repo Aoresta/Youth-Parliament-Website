@@ -33,7 +33,7 @@ export const rulingMembersEditable = [
 export const oppositionMembersEditable = [
   { name: "Shri Veer Verma", role: "Leader of Opposition", image: "/ministers/veer.jpeg", ideology: "We learn from experiences, but our life is too short to experience everything.. Hence, we must learn by observing others experiencing" },
   { name: "Arshita Gupta", role: "Deputy Leader of Opposition", image: "/ministers/arshita.jpeg", ideology: "Listen first, challenge better" },
-  { name: "Kashish Somaiya", role: "Opposition Whip", image: "/ministers/kashish.jpeg", ideology: "Facts make strong questions" },
+  { name: "Kashish Somaiya", role: "Opposition Whip", image: "/ministers/kashish.jpeg", ideology: "No matter what anybody says,words and ideas can change the world" },
   { name: "Mishita Singh", role: "Deputy Speaker of Opposition", image: "/ministers/mishita.jpeg", ideology: "Knowledge lights the mind, and in that light, power finds its path" },
   { name: "Himani Joshi", role: "Deputy Speaker of Opposition", image: "/ministers/himani.jpeg", ideology: "Art is long, life is short" },
   { name: "Aditya Bakshi", role: "Member of Opposition", image: "/ministers/aditya.jpeg", ideology: "Knowledge lights the mind, and in that light, power finds its path" },
