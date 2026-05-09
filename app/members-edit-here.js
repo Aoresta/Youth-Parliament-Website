@@ -24,7 +24,7 @@ export const rulingMembersEditable = [
   { name: "Aanya", role: "Health Minister", image: "/ministers/aanya.jpeg", ideology: "Leading to protect lives, not just policies" },
   { name: "Soham Raj", role: "Public Welfare Minister", image: "/ministers/soham.jpeg", ideology: "Every citizen matters, every life counts" },
   { name: "Yash Rawat", role: "Member of Parliament", image: "/ministers/yash.jpeg", ideology: "Discipline turns debate into action" },
-  { name: "Aradhya", role: "Member of Parliament", image: "/ministers/aradhya.jpeg", ideology: "Drafting laws today for our future tomorrow" },
+  { name: "Aradhya Singh", role: "Member of Parliament", image: "/ministers/aradhya.jpeg", ideology: "A society that cuts off from its youth severs its lifeline" },
   { name: "Bhavya Wadhawan", role: "Member of Parliament", image: "/ministers/bhavya.jpeg", ideology: "Drafting laws today for our future tomorrow" },
   { name: "Minister 19", role: "Food Minister", image: "/ministers/minister-19.jpeg", ideology: "Discipline turns debate into action" },
   { name: "Minister 20", role: "Parliamentary Affairs Minister", image: "/ministers/minister-20.jpeg", ideology: "Speak with facts and listen with respect" }
@@ -50,15 +50,15 @@ export const oppositionMembersEditable = [
   { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arhant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
   { name: "Zohair", role: "Member of Opposition", image: "/ministers/zohair.jpeg", ideology: "Facts make strong questions" },
   { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/opposition-19.jpeg", ideology: "Respectful opposition strengthens democracy" },
-  { name: "Opposition Member 20", role: "Member of Opposition`", image: "/ministers/opposition-20.jpeg", ideology: "Listen first, challenge better" }
+  { name: "Divyansh Choudhary", role: "Member of Opposition`", image: "/ministers/divyansh.jpeg", ideology: "Always work with discipline and respect" }
 ];
 
 export const mediaMembersEditable = [
-  { name: "Aarjav Jain", role: "Media Convenor", image: "/ministers/aarjav.jpeg", ideology: "Informing minds with truth, integrity, and courage" },
+  { name: "Aarjav Jain", role: "Media Convenor", image: "/ministers/aarjav.jpeg", ideology: "Write what happened with honesty" },
   { name: "Jasmeet Kaur", role: "Press Briefing Lead", image: "/ministers/jasmeet.jpeg", ideology: "Clear words build public trust" },
   { name: "Sarthak", role: "Photography Lead", image: "/ministers/sarthak.jpeg", ideology: "Capture the moment, preserve the record" },
   { name: "Rishabh", role: "Video Coverage Lead", image: "/ministers/rishabh.jpeg", ideology: "Every session deserves a record" },
-  { name: "Akshara Sharma", role: "Social Media Editor", image: "/ministers/akshara.jpeg", ideology: "Inform quickly, post carefully" },
+  { name: "Akshara Sharma", role: "Social Media Editor", image: "/ministers/akshara.jpeg", ideology: " Informing minds with truth, integrity and courage" },
   { name: "Media Member 6", role: "Interview Desk", image: "/ministers/media-6.jpeg", ideology: "Ask clearly, listen completely" },
   { name: "Media Member 7", role: "Event Report Writer", image: "/ministers/media-7.jpeg", ideology: "Write what happened with honesty" }
 ];
