@@ -27,7 +27,7 @@ export const parties = {
     dark: "#143e35",
     intro:
       "The opposition examines every decision, asks hard questions, and offers alternative policy ideas with discipline and respect.",
-    quote: "Question with courage, debate with dignity."
+    quote: "Strong opposition - strong democracy."
   },
   media: {
     name: "Media",
