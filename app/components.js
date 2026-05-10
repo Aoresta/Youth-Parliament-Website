@@ -164,7 +164,7 @@ export function MemberButton({ member }) {
       <img src={member.image} alt="" className="member-photo" />
       <span className="member-name">{member.name}</span>
       <span className="member-role">{member.role}</span>
-      <span className="ideology-label">Ideology</span>
+      <span className="ideology-label"></span>
       <span className="quote-mark">“</span>
       <span className="ideology-text">{member.ideology}</span>
     </button>
