@@ -136,8 +136,8 @@ export function MemberGrid({ members, title = "Members" }) {
     <section className="member-section">
       <div className="section-heading">
         <p className="eyebrow">{title}</p>
-        <h2>Click-ready member profiles in a formal card design.</h2>
-        <p>Change names, roles, photos, and ideology text from the editable data file.</p>
+        <h2></h2>
+        <p></p>
       </div>
       <div className="member-grid">
         {members.map((member) => (
