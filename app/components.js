@@ -38,12 +38,12 @@ export function Shell({ children }) {
                     Mr. Tejas Bansal <br />
            <br />
            <br />
-                   Coordinated by; <br />
+          </strong>
+          <p>  Coordinated by; <br />
                   • Mr. Veer Verma  <br />
                   • Ms. Mansi Joshi <br />
                   • Mr. Aakarsh Gupta <br />
-          </strong>
-          <p> © 2026 Credit. All rights reserved</p>
+                  © 2026 Credit. All rights reserved <br /> </p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
