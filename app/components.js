@@ -36,14 +36,14 @@ export function Shell({ children }) {
         <div>
           <strong>Designed and Managed by: <br />
                     Mr. Tejas Bansal <br />
-           <br />
-           <br />
-          </strong>
-          <p>  Coordinated by; <br />
+                    Coordinated by; <br />
                   • Mr. Veer Verma  <br />
                   • Ms. Mansi Joshi <br />
                   • Mr. Aakarsh Gupta <br />
-                  © 2026 Credit. All rights reserved <br /> </p>
+           <br />
+           <br />
+          </strong>
+          <p>   © 2026 Credit. All rights reserved <br /> </p>
         </div>
         <Link href="/">Back to home</Link>
       </footer>
