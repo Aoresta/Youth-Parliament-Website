@@ -65,12 +65,12 @@ export const mediaMembersEditable = [
 
 export const tableOfficerMembersEditable = [
   { name: "Mansi Joshi", role: "Speaker of the House", image: "/ministers/mansi.jpeg", ideology: "Curious mind, grounded heart, always evolving" },
-  { name: "Vani Arora", role: "Chief Table Officer", image: "/ministers/vani.jpeg", ideology: "Write what happened with honesty" },
+  { name: "Vani Arora", role: "Chief Table Officer", image: "/ministers/vani.jpeg", ideology: "If its meant to be, it will be" },
   { name: "Kritika", role: "Chief Table Officer", image: "/ministers/kritika.jpeg", ideology: "Think critically, act responsibly, serve selflessly" },
   { name: "Anshika Yadav", role: "Chief Table Officer", image: "/ministers/anshika.jpeg", ideology: "Accuracy is service" },
   { name: "Hryan Gola", role: "Chief Table Officer", image: "/ministers/hyran.jpeg", ideology: "Every question deserves order" },
   { name: "Mayank Shekhar", role: "Helping Hand", image: "/ministers/mayank.jpeg", ideology: "Records protect the House" },
-  { name: "Vihaan Mittal", role: "", image: "/ministers/vihaan.jpeg", ideology: "Count fairly, declare clearly" },
+  { name: "Vihaan Mittal", role: "", image: "/ministers/vihaan.jpeg", ideology: "Don't just exist, live it the way you want" },
   { name: "Divyansh Chaudhary", role: "", image: "/ministers/divyansh.jpeg", ideology: "Time discipline is debate discipline" },
   { name: "Ali Abbas Rizvi", role: "Oath Announcer", image: "/ministers/ali.jpeg", ideology: "A prepared House is a strong House" }
 ];
