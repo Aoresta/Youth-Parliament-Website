@@ -16,7 +16,7 @@ export const rulingMembersEditable = [
   { name: "Yashika Rawat", role: "Ruling Whip", image: "/ministers/yashika.jpeg", ideology: "Empower women, protect children, ensure equal opportunities" },
   { name: "Shomili Chaudhuri", role: "Member of Parliament", image: "/ministers/shomili.jpeg", ideology: "You can never be overdressed or overeducated" },
   { name: "Naitik Rai", role: "Commerce Minister", image: "/ministers/naitik.jpeg", ideology: "Is it still narcissistic if I'm just better?" },
-  { name: "Mannat Chauhan", role: "Member of Parliament", image: "/ministers/mannat.jpeg", ideology: "A nation progresses when its women are healthy, informed, and respected" },
+  { name: "Mannat Chauhan", role: "Women and Hygiene Minsiter", image: "/ministers/mannat.jpeg", ideology: "A nation progresses when its women are healthy, informed, and respected" },
   { name: "Aarush Pandey ", role: "Education Minister", image: "/ministers/aarush.jpeg", ideology: "Discipline turns debate into action" },
   { name: "Naisha Kaushal", role: "Member of Parliament", image: "/ministers/naisha.jpeg", ideology: "Beauty fades? Good thing my attitude is timeless" },
   { name: "Akshita Yadav", role: "Member of Parliament", image: "/ministers/akshita.jpeg", ideology: "I question everything until the truth speaks itself" },
