@@ -7,7 +7,7 @@ export default function HomePage() {
       <Hero
         eyebrow="Annual School Youth Parliament"
         title="Young voices. Real debate. Responsible leadership."
-        copy="A political website for school event, built with the ruling party, opposition, media, table officers, gallery, and about section."
+        copy="St. Andrews Scots Sr. Sec. School"
         partyKey="ruling"
         actions={
           <>
