@@ -36,7 +36,9 @@ export function Shell({ children }) {
         <div>
           <strong>Designed and Managed by: <br />
                     Mr. Tejas Bansal <br />
-                    Coordinated by; <br />
+                    <br />
+                    <br />
+                    Directed by; <br />
                   • Mr. Veer Verma  <br />
                   • Ms. Mansi Joshi <br />
                   • Mr. Aakarsh Gupta <br />
