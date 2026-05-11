@@ -50,7 +50,7 @@ export const oppositionMembersEditable = [
   { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arahant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
   { name: "Zohair", role: "Member of Opposition", image: "/ministers/zohair.jpeg", ideology: "Facts make strong questions" },
   { name: "Vihaan Mittal", role: "Member of Opposition", image: "/ministers/vihaan.jpeg", ideology: "Don't just exist, live it the way you want" },
-  { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" },
+  { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" }
 ];
 
 export const mediaMembersEditable = [
@@ -58,7 +58,7 @@ export const mediaMembersEditable = [
   { name: "Jasmeet Kaur", role: "Press Briefing Lead", image: "/ministers/jasmeet.jpeg", ideology: "Clear words build public trust" },
   { name: "Sarthak", role: "Photography Lead", image: "/ministers/sarthak.jpeg", ideology: "Capture the moment, preserve the record" },
   { name: "Rishabh", role: "Video Coverage Lead", image: "/ministers/rishabh.jpeg", ideology: "Every session deserves a record" },
-  { name: "Akshara Sharma", role: "Social Media Editor", image: "/ministers/akshara.jpeg", ideology: " Informing minds with truth, integrity and courage" },
+  { name: "Akshara Sharma", role: "Social Media Editor", image: "/ministers/akshara.jpeg", ideology: " Informing minds with truth, integrity and courage" }
 ];
 
 export const tableOfficerMembersEditable = [
