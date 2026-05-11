@@ -50,8 +50,6 @@ export const oppositionMembersEditable = [
   { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arhant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
   { name: "Zohair", role: "Member of Opposition", image: "/ministers/zohair.jpeg", ideology: "Facts make strong questions" },
   { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" },
-  { name: "Divyansh Choudhary", role: "Member of Opposition`", image: "/ministers/divyansh.jpeg", ideology: "Always work with discipline and respect" }
-];
 
 export const mediaMembersEditable = [
   { name: "Aarjav Jain", role: "Media Convenor", image: "/ministers/aarjav.jpeg", ideology: "Write what happened with honesty" },
