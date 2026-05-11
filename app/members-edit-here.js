@@ -47,7 +47,7 @@ export const oppositionMembersEditable = [
   { name: "Harsh Wadhwa", role: "Member of Opposition", image: "/ministers/harsh.jpeg", ideology: "No matter what anybody says,words and ideas can change the world" },
   { name: "Gunika Dubey", role: "Member of Opposition", image: "/ministers/gunika.jpeg", ideology: "Listen first, challenge better" },
   { name: "Trivikram Saxena", role: "Member of Opposition", image: "/ministers/trivikram.jpeg", ideology: "Question with courage, debate with dignity" },
-  { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arhant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
+  { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arahant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
   { name: "Zohair", role: "Member of Opposition", image: "/ministers/zohair.jpeg", ideology: "Facts make strong questions" },
   { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" },
 
