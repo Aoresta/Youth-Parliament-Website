@@ -1,3 +1,4 @@
+import { galleryEditable } from "./gallery-edit-here";
 import {
   mediaMembersEditable,
   oppositionMembersEditable,
@@ -67,14 +68,15 @@ export const oppositionMembers = prepareMembers(oppositionMembersEditable, "oppo
 export const mediaMembers = prepareMembers(mediaMembersEditable, "media");
 export const tableOfficerMembers = prepareMembers(tableOfficerMembersEditable.slice(1), "table");
 
-export const gallery = [
-  ["Opening Session", "Oath, welcome address, and the first sitting of the House."],
-  ["Question Hour", "Members question ministers on student-focused public issues."],
-  ["Bill Debate", "Arguments, amendments, and voting during formal debate."],
-  ["Media Briefing", "Party leaders answer questions from the press gallery."],
-  ["Table Office", "Agenda, timekeeping, roll call, and voting records in action."],
-  ["Closing Ceremony", "Awards, certificates, and reflections from the assembly."]
-];
+export const gallery = galleryEditable.map((item) => {
+  const raw = typeof item.image === "string" ? item.image.trim() : "";
+  return {
+    title: item.title,
+    text: item.text,
+    image: raw ? photoPath(raw) : null,
+    alt: (typeof item.alt === "string" && item.alt.trim()) || item.title
+  };
+});
 
 export const counts = [
   ["Speaker", "1"],
