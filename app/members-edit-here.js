@@ -58,8 +58,6 @@ export const mediaMembersEditable = [
   { name: "Sarthak", role: "Photography Lead", image: "/ministers/sarthak.jpeg", ideology: "Capture the moment, preserve the record" },
   { name: "Rishabh", role: "Video Coverage Lead", image: "/ministers/rishabh.jpeg", ideology: "Every session deserves a record" },
   { name: "Akshara Sharma", role: "Social Media Editor", image: "/ministers/akshara.jpeg", ideology: " Informing minds with truth, integrity and courage" },
-  { name: "Media Member 6", role: "Interview Desk", image: "/ministers/media-6.jpeg", ideology: "Ask clearly, listen completely" },
-  { name: "Media Member 7", role: "Event Report Writer", image: "/ministers/media-7.jpeg", ideology: "Write what happened with honesty" }
 ];
 
 export const tableOfficerMembersEditable = [
