@@ -31,10 +31,10 @@ export const galleryEditable = [
     alt: "Party leaders taking questions at a media briefing."
   },
   {
-    title: "Table Office",
+    title: "Directors",
     text: "Agenda, timekeeping, roll call, and voting records in action.",
-    image: "",
-    alt: "Table officers managing procedure and records."
+    image: "/gallery/directors.jpeg",
+    alt: "Managing Head overseeing the proceedings."
   },
   {
     title: "Closing Ceremony",
