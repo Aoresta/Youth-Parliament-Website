@@ -49,7 +49,8 @@ export const oppositionMembersEditable = [
   { name: "Trivikram Saxena", role: "Member of Opposition", image: "/ministers/trivikram.jpeg", ideology: "Question with courage, debate with dignity" },
   { name: "Arhant Nijhara", role: "Member of Opposition", image: "/ministers/arahant.jpeg", ideology: "I don't oppose for the sake of noise—I question to protect balance" },
   { name: "Zohair", role: "Member of Opposition", image: "/ministers/zohair.jpeg", ideology: "Facts make strong questions" },
-  { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" },
+  { name: "Tanmay Gupta", role: "Member of Opposition", image: "/ministers/tanmay.jpeg", ideology: "Respectful opposition strengthens democracy" }
+];
 
 export const mediaMembersEditable = [
   { name: "Aarjav Jain", role: "Media Convenor", image: "/ministers/aarjav.jpeg", ideology: "Write what happened with honesty" },
