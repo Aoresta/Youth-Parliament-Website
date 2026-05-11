@@ -27,7 +27,7 @@ export const parties = {
     dark: "#143e35",
     intro:
       "The opposition examines every decision, asks hard questions, and offers alternative policy ideas with discipline and respect.",
-    quote: "Strong opposition - strong democracy."
+    quote: "Strong opposition - strengthens democracy."
   },
   media: {
     name: "Media",
@@ -78,7 +78,7 @@ export const gallery = [
 
 export const counts = [
   ["Speaker", "1"],
-  ["Table Officers", "8"],
+  ["Table Officers", "6"],
   ["Ruling Party", "20"],
   ["Opposition", "20"],
   ["Media", "5"]
