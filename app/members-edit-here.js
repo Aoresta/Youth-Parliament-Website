@@ -26,8 +26,8 @@ export const rulingMembersEditable = [
   { name: "Yash Rawat", role: "Member of Parliament", image: "/ministers/yash.jpeg", ideology: "Discipline turns debate into action" },
   { name: "Aradhya Singh", role: "Member of Parliament", image: "/ministers/aradhya.jpeg", ideology: "A society that cuts off from its youth severs its lifeline" },
   { name: "Bhavya Wadhawan", role: "Member of Parliament", image: "/ministers/bhavya.jpeg", ideology: "Drafting laws today for our future tomorrow" },
-  { name: "Minister 19", role: "Food Minister", image: "/ministers/minister-19.jpeg", ideology: "Discipline turns debate into action" },
-  { name: "Minister 20", role: "Parliamentary Affairs Minister", image: "/ministers/minister-20.jpeg", ideology: "Speak with facts and listen with respect" }
+  { name: "Kamakshi Gupta", role: "Defence Minister", image: "/ministers/kamakshi.jpeg", ideology: "Discipline turns debate into action" },
+  { name: "Pratyusha", role: "Environment Minister", image: "/ministers/pratyusha.jpeg", ideology: "Speak with facts and listen with respect" }
 ];
 
 export const oppositionMembersEditable = [
