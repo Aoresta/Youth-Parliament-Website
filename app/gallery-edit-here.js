@@ -37,7 +37,7 @@ export const galleryEditable = [
     alt: "Managing Head overseeing the proceedings."
   },
   {
-    title: "Closing Ceremony",
+    title: "Preparation Team",
     text: "Awards, certificates, and reflections from the assembly.",
     image: "",
     alt: "Students on stage during the closing ceremony."
